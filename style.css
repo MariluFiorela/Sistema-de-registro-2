@@ -1,4 +1,9 @@
+* {
+    padding: 0;
+    margin: 0;
+}
 body{
+
     background-color: #F5F5F5;
     color: #00060cd7;
 }
@@ -7,5 +12,9 @@ body{
     color: #0A2647;
     font-size: 36px;
     font-weight:bold; 
+.texto-destacado {
+    color: #0A2647;
+
+}
 
 }
